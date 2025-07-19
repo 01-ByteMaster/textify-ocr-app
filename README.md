@@ -27,7 +27,7 @@ Textify/
 │
 |
 ├── api/
-│    └── app.py              
+└── app.py              
 ├── main.py                 
 ├── ocr_utils.py            
 ├── images/                 
@@ -36,12 +36,12 @@ Textify/
 ├── requirements.txt        
 │
 ├── frontend/
-│    ├── dist/
-│         └── output.css         
-│   ├── style/
+├── dist/
+│    └── output.css         
+├── style/
 │        └── input.css          
-│   ├── index.html             
-│   └── script.js              
+├── index.html             
+└── script.js              
 │
 ├── node_modules/               
 ├── venv/                       
