@@ -37,9 +37,9 @@ Textify/
 │
 ├── frontend/
 │   ├── dist/
-│   │   └── output.css         
+│         └── output.css         
 │   ├── style/
-│   │   └── input.css          
+│        └── input.css          
 │   ├── index.html             
 │   └── script.js              
 │
