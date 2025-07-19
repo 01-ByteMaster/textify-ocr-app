@@ -24,25 +24,17 @@ Textify is a full-stack web application that allows users to upload images and e
 ## 📁 Project Structure
 
 Textify/
-│
-|
-├── api/
-└── app.py              
+
+├── api/ app.py             
 ├── main.py                 
 ├── ocr_utils.py            
 ├── images/                 
-├── outputs/
-│               
+├── outputs/         
 ├── requirements.txt        
-│
-├── frontend/
-├── dist/
-│    └── output.css         
-├── style/
-│        └── input.css          
+├── frontend/dist/output.css  
+├── frontend/style/input.css          
 ├── index.html             
-└── script.js              
-│
+├── script.js              
 ├── node_modules/               
 ├── venv/                       
 ├── package.json                
