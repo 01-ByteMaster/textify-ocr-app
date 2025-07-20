@@ -2,7 +2,6 @@
 #For a Single Image 
 import cv2
 import easyocr
-import matplotlib.pyplot as plt
 
 #read image 
 image_path='test2.png'
