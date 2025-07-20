@@ -3,3 +3,4 @@ Flask-Cors
 numpy
 opencv-python
 easyocr
+gunicorn
